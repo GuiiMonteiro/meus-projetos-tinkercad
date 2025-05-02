@@ -2,7 +2,7 @@
 
 Este projeto é um mini teclado musical feito com Arduino. Ele utiliza botões para tocar diferentes notas sonoras e acende um LED para indicar a atividade.
 
-![Mini piano circuito](./circuito.png)
+![Mini piano circuito](./circuito)
 
 ---
 
