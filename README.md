@@ -2,6 +2,8 @@
 
 Este projeto é um mini teclado musical feito com Arduino. Ele utiliza botões para tocar diferentes notas sonoras e acende um LED para indicar a atividade.
 
+![Mini piano circuito](./circuito.png)
+
 ---
 
 ## ⚙️ Componentes Utilizados
@@ -13,8 +15,6 @@ Este projeto é um mini teclado musical feito com Arduino. Ele utiliza botões p
 - Buzzer Piezo
 - 7 Botões push-button
 - Jumpers (fios de conexão)
-
-![Mini piano circuito](./img/circuito.png)
 
 
 ---
