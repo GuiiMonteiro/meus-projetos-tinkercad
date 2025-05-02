@@ -14,6 +14,9 @@ Este projeto é um mini teclado musical feito com Arduino. Ele utiliza botões p
 - 7 Botões push-button
 - Jumpers (fios de conexão)
 
+![Mini piano circuito](./img/circuito.png)
+
+
 ---
 
 ## 🧠 Lógica do Código
